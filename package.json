@@ -1,0 +1,17 @@
+{
+  "name": "trim",
+  "version": "0.0.0",
+  "repo": "littlstar/trim.cc",
+  "description": "std::string trim utility",
+  "keywords": [
+    "string",
+    "trim",
+    "trim left",
+    "trim right"
+  ],
+  "license": "MIT",
+  "src": [
+    "trim.cc",
+    "trim.h"
+  ]
+}
