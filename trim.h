@@ -4,8 +4,8 @@
 // MIT licensed
 //
 
-#ifndef TRIM_H
-#define TRIM_H 1
+#ifndef LS_TRIM_H
+#define LS_TRIM_H 1
 
 namespace littlstar {
 
@@ -34,4 +34,4 @@ TrimRight(std::string &s);
 
 } // littlstar
 
-#endif // TRIM_H
+#endif // LS_TRIM_H
