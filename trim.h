@@ -7,6 +7,8 @@
 #ifndef TRIM_H
 #define TRIM_H 1
 
+namespace littlstar {
+
 #include <string>
 
 /**
@@ -29,5 +31,7 @@ TrimLeft(std::string &s);
 
 std::string &
 TrimRight(std::string &s);
+
+} // littlstar
 
 #endif // TRIM_H

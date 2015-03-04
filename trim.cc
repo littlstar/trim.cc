@@ -9,6 +9,8 @@
 #include <string>
 #include "trim.h"
 
+namespace littlstar {
+
 std::string &
 Trim(std::string &s){
   return TrimLeft(TrimRight(s));
@@ -39,3 +41,5 @@ TrimRight(std::string &s){
   );
   return s;
 }
+
+} // littlstar

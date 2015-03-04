@@ -3,6 +3,8 @@
 #include <string>
 #include "trim.h"
 
+using namespace littlstar;
+
 int
 main(){
   std::string s;
