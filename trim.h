@@ -7,9 +7,9 @@
 #ifndef LS_TRIM_H
 #define LS_TRIM_H 1
 
-namespace littlstar {
-
 #include <string>
+
+namespace littlstar {
 
 /**
  * Trim whitespace from `s`.
