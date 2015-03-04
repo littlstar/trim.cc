@@ -15,21 +15,21 @@
  */
 
 std::string &
-Trim(std::string &s);
+littlstar::Trim(std::string &s);
 
 /**
  * Trim leading whitespace from `s`.
  */
 
 std::string &
-TrimLeft(std::string &s);
+littlstar::TrimLeft(std::string &s);
 
 /**
  * Trim trailing whitespace from `s`.
  */
 
 std::string &
-TrimRight(std::string &s);
+littlstar::TrimRight(std::string &s);
 ```
 
 ## License
